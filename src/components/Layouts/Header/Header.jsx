@@ -2,9 +2,9 @@ import React from 'react';
 
 export const Header = () => {
   return (
-    <header className="flex justify-center items-center w-screen h-32 bg-purple-700">
+    <header className="flex justify-center items-center w-full h-32 bg-pink-black">
       <h1 className="text-3xl font-bold text-white">
-        Pagina principal
+        Fashion News
       </h1>
     </header>
   );
